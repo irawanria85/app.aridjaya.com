@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "/google",
+    "destination": "https://google.com"
+  },
+  {
+    "slug": "/bing",
+    "destination": "https://bing.com"
+  }
+]
